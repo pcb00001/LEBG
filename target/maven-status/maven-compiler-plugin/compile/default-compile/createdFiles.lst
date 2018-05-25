@@ -1,0 +1,9 @@
+com\jeff\lebg\web\controller\MainController.class
+com\jeff\lebg\utils\RequestUtil.class
+com\jeff\lebg\web\AppResponse.class
+com\jeff\lebg\web\View$Summary.class
+com\jeff\lebg\business\google\TranstaleApi.class
+com\jeff\lebg\web\controller\AppRequest.class
+com\jeff\lebg\SpringBootApp.class
+com\jeff\lebg\web\View.class
+com\jeff\lebg\business\AppResult.class
